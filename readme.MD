@@ -1,0 +1,1 @@
+Simple note taking app built during industrial Attachment on Selise(Day-1)
